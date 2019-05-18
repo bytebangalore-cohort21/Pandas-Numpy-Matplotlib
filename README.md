@@ -1,7 +1,10 @@
 # Pandas-Numpy-Matplotlib
 Introduction to Pandas, Numpy and Matplotlib
 
- # ANALYSE AND VISULAZE THE FOLLOWING DATA SETS USING PANDAS, NUMPY AND MATPLOTLIB
+
+## Practice Questions
+
+### ANALYSE AND VISULAZE THE FOLLOWING DATA SETS USING PANDAS, NUMPY AND MATPLOTLIB
  
 * Birthrate data of United States, provided by the Centers for Disease Control (CDC)
 This data can be found at
